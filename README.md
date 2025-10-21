@@ -1,21 +1,70 @@
-<<<<<<< HEAD
-# React + Vite
+# 💼 Job Swipe React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **React mini-project** that displays job openings from top tech companies like Google, Meta, Apple, Amazon, and OpenAI.  
+Built with **reusable components**, **clean UI**, and **dynamic rendering** using React props and mapping.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🧠 Dynamic job data rendering using `map()`
+- 🎨 Clean, responsive card design using CSS
+- 🏢 Job listings from FAANG & big tech companies
+- ⚙️ Reusable `Card` component structure
+- 💡 Ideal for React beginners to learn props and component reusability
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Job-Swipe-React
-A sleek and responsive React mini-project that displays tech job openings from FAANG and top companies using reusable Card components. Built with clean CSS, modern design, and modular structure — perfect for learning React props, components, and mapping dynamic data.
->>>>>>> 9b5c7642e9b239e9e1009a7d991448322750cd4c
+- **React.js** – Frontend Framework  
+- **Lucide React** – For icons  
+- **CSS3** – Styling and layout  
+
+---
+
+## 📸 Preview
+
+Each card shows:
+- Company Logo & Name  
+- Job Title & Posted Date  
+- Tags (Full-time/Part-time, Level)  
+- Pay Rate & Location  
+- “Save” and “Apply Now” buttons  
+
+---
+
+## 🧠 What I Learned
+
+- How to pass and use **props** in React  
+- How to loop through arrays using **map()**  
+- How to structure and style reusable components  
+- Basic UI/UX principles while designing cards  
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/Sumitku2938k/job-swipe-react.git
+   
+2. **Navigate to project directory**
+   ```bash
+   cd job-swipe-react
+   
+3. **Install dependencies**
+   ```bash
+   npm install
+
+4. **Run the project**
+   ```bash
+   npm run dev
+   
+5. *Open your browser and visit*
+   👉 http://localhost:5173
+
+   ---
+
+## 🧑‍💻 Author
+**Sumit** – Frontend Developer (in learning phase).
